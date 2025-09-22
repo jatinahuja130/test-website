@@ -15,3 +15,4 @@ if not check_disk_usage("/") or check_cpu_usage():
     print("error")
 else:
     print("OK!")
+    print("OKKK")
